@@ -10,7 +10,7 @@ class name{
     public:
     name()
     {
-        cout<<"This is Pranav\n";
+        cout<<"This is bhakti\n";
     }
 };
 class Firstname: public name{
@@ -23,5 +23,5 @@ int main()
 
 /*
 Output
-This is Pranav
+This is bhakti
 */
